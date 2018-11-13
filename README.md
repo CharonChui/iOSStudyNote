@@ -51,6 +51,10 @@ iOS学习笔记
     - [17.UI基础之UIPageControl][45]
     - [18.UI基础之UIActivityIndicatorView][46]
     - [19.UI基础之动画][47]
+    - [20.网络请求.md][48]
+    - [21.文件管理.md][49]
+    - [22.单例.md][50]
+    - [23.随机数.md][51]
  
 
 
@@ -93,6 +97,10 @@ iOS学习笔记
 [45]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/17.UI%E5%9F%BA%E7%A1%80%E4%B9%8BUIPageControl.md "17.UI基础之UIPageControl"
 [46]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/18.UI%E5%9F%BA%E7%A1%80%E4%B9%8BUIActivityIndicatorView.md "18.UI基础之UIActivityIndicatorView"
 [47]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/19.UI%E5%9F%BA%E7%A1%80%E4%B9%8B%E5%8A%A8%E7%94%BB.md "19.UI基础之动画"
+[48]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/20.%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82.md "20.网络请求.md"
+[49]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/21.%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.md "21.文件管理.md"
+[50]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/22.%E5%8D%95%E4%BE%8B.md "22.单例.md"
+[51]: https://github.com/CharonChui/iOSStudyNote/blob/master/iOS%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/23.%E9%9A%8F%E6%9C%BA%E6%95%B0.md "23.随机数.md"
 
 
 
